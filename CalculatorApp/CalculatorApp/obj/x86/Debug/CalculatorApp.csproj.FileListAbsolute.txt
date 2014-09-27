@@ -1,0 +1,13 @@
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.CalculatorUI.resources
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.Properties.Resources.resources
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+G:\OOP0145\08-Mar-2014\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+J:\New folder\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+J:\New folder\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+K:\New folder\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+K:\New folder\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
